@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/trello/static/css/main.e6c13ad2.css",
+    "main.js": "/trello/static/js/main.39d3ebe1.js",
+    "static/media/Wallper.jpg": "/trello/static/media/Wallper.9c81797e983a9868da98.jpg",
+    "index.html": "/trello/index.html",
+    "main.e6c13ad2.css.map": "/trello/static/css/main.e6c13ad2.css.map",
+    "main.39d3ebe1.js.map": "/trello/static/js/main.39d3ebe1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.39d3ebe1.js"
+  ]
+}
